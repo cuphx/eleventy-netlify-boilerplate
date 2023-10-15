@@ -1,6 +1,9 @@
 ---
 title: "#domagick March 2017 - Self Transformation"
 date: "2017-04-13"
+eleventyNavigation:
+  key: About
+  order: 4
 ---
 
 **Research**
